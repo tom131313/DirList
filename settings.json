@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\bike1\\FRC\\Library\\sqlite-jdbc-3.50.1.0.jar",
+            "c:\\Users\\bike1\\FRC\\Library\\commons-io-2.19.0\\commons-io-2.19.0.jar",
+            "c:\\Users\\bike1\\FRC\\Library\\commons-io-2.19.0\\commons-io-2.19.0-javadoc.jar",
+            "c:\\Users\\bike1\\FRC\\Library\\commons-io-2.19.0\\commons-io-2.19.0-sources.jar",
+            "c:\\Users\\bike1\\FRC\\Library\\commons-io-2.19.0\\commons-io-2.19.0-tests.jar",
+            "c:\\Users\\bike1\\FRC\\Library\\commons-io-2.19.0\\commons-io-2.19.0-test-sources.jar"
+        ]
+    }
+}
